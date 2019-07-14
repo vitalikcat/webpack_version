@@ -1,0 +1,2 @@
+# webpack_version
+webpackforjavascript
